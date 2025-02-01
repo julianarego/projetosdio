@@ -9,5 +9,5 @@ IAs Generativas
 Conteúdos criados com prompts detalhadose boa contextualização, visando obter o melhor resultado possível.
 
 ## 🚀 Resultados
-
+Em vários contextos torna-se difícil ou impossível saber se o conteúdo foi gerado por IA.
 
